@@ -1,0 +1,70 @@
+
+.logo{
+    display: flex;
+    width: 10px; 
+    height: 170px; 
+    margin-right: 170px;
+    margin-left: 230px;
+
+}
+img{
+    margin-left: 300px;
+}
+body{
+    background-color: white;
+}
+form{
+    background-color: rgba(0, 132, 255, 0.87);
+    padding: 20px;
+    padding-left: 50px;
+    margin-top: 50px;
+    margin-left: 470px;
+    margin-bottom:100px;
+    margin-right: 470px;
+    border-radius: 10px;
+    border-color: black;
+    border: white 10px ridge;
+
+}
+.is{
+    text-align: center;
+}
+input[type="submit"] {
+    width: 60px;
+    margin-left: 90px;
+    background-color: rgb(50, 234, 247);
+}
+input{
+    display:block;
+    text-decoration-color: black;
+    color:black;
+    width: 250px;
+    background-color: white;
+    border-radius: 20px;
+    align-items: center;
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+.pie{
+    margin-top: 10px;
+    text-align: center;
+}
+.info{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+.underlineHover{
+    color: black;
+}
+footer{
+    margin-top:10%;
+    background-color:black;
+    color: aliceblue; 
+    height: 20%; 
+    bottom: 0;
+    background-color: black;
+    color: #FFFFFF;
+ }

@@ -1,0 +1,32 @@
+body{
+
+}
+img{
+    display: flex;
+    width: 600px;
+    height: 600px;
+    text-align: center;
+}
+strong{
+    color: rgb(247, 146, 179);
+    display: flex;
+    margin-top: 30%;
+}
+
+h1{
+    margin-top: 30%;
+}
+.cargar{
+   text-align: center;
+   vertical-align: middle;
+   float:left;
+   display:flex;
+   align-items:center;
+}
+.icon{
+    width: 40px;
+    height: 40px; 
+}
+
+
+

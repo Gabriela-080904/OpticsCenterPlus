@@ -1,0 +1,48 @@
+body{
+    background-image: url(stock-vector-blue-abstract-wave-lines.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.logo{
+    display: flex;
+    width: 10px; 
+    height: 170px; 
+    margin-right: 170px;
+    margin-left: 510px;
+}
+
+form{
+    padding: 20px;
+    margin-top: 20px;
+    margin-left:200px;
+    margin-bottom: 60px ;
+    margin-right: 200px;
+}
+hr{
+    height: 6px;
+    background-color: black;
+}
+h1{
+    text-align: center;
+}
+footer{
+   margin-top:10%;
+   background-color:black; 
+   color: aliceblue; 
+   height: 20%; 
+   bottom: 0;
+   background-color: black;
+   color: #FFFFFF;
+}
+.info{
+    text-align: center;
+}
+input{
+    border-radius: 10px;
+    text-align: center;
+}
+input[type=""] {
+width: 210px;
+height: 80px;
+}

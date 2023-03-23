@@ -1,0 +1,13 @@
+body{
+    background-color: white;
+}
+.cabeza{
+    background-color: aqua;
+    justify-content: space-between;
+    display: flex;
+}
+.info{
+    text-align: center;
+    background-color: black;
+    color: white;
+}

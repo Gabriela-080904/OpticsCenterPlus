@@ -1,0 +1,13 @@
+.contenedor{
+    margin: 200px;
+}
+img{
+    width: 500px;
+    height: 500px;
+}
+.texto{
+    margin: 50px;
+}
+i{
+    color: blue;
+}
